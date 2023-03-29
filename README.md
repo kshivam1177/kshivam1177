@@ -14,11 +14,11 @@
 
 <div align = center>
 
+[<kbd> <br>
+<a href="https://kshivam1177.github.io/kshivam1177" target="_blank"> View Portfolio</a>
 <br>
-<a href="https://kshivam1177.github.io/kshivam1177" target="blank"> View Portfolio</a>
 <br>
-<br>
-
+</kbd>]
 
 </div>
 
