@@ -30,9 +30,8 @@
 
 <br>
 
--👨‍💻 All of my projects are available at [https://kshivam1177.github.io/kshivam1177](https://kshivam1177.github.io/kshivam1177)
 - 📫 Reachable @ **kshivam1177@gmail.com**
-- 
+- 👨‍💻 All of my projects are available at [https://kshivam1177.github.io/kshivam1177](https://kshivam1177.github.io/kshivam1177) 
 <br>
 
 <h3 align="left">Connect with me:</h3>
