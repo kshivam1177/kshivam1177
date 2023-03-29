@@ -6,11 +6,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kshivam1177&label=Profile%20views&color=0e75b6&style=flat" alt="kshivam1177" />
 </p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kshivam1177" alt="kshivam1177" />
-  </a>
-</p>
+
 
 <div align = center>
 
@@ -22,7 +18,13 @@
 
 </div>
 
-[portfolio-link]: 'https://kshivam1177.github.io/kshivam1177'
+
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kshivam1177" alt="kshivam1177" />
+  </a>
+</p>
 
 
 - 👨‍💻 All of my projects are available at [https://kshivam1177.github.io/kshivam1177](https://kshivam1177.github.io/kshivam1177) 
