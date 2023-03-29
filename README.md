@@ -3,12 +3,14 @@
 <p align="center">
   <a href="https://kshivam1177.github.io/kshivam1177" target="blank"></a>
 </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kshivam1177&label=Profile%20views&color=0e75b6&style=flat" alt="kshivam1177" />
-</p>
 
 
 <div align = center>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kshivam1177&label=Profile%20views&color=0e75b6&style=flat" alt="kshivam1177" />
+</p>
+<br>
+<br>
 
 [<kbd> <br>
 <a href="https://kshivam1177.github.io/kshivam1177" target="_blank"> **View Portfolio**</a>
