@@ -18,7 +18,7 @@
 
 </div>
 
-[portfolio-link]: # 'https://kshivam1177.github.io/kshivam1177'
+[portfolio-link]: 'https://kshivam1177.github.io/kshivam1177'
 
 
 - 👨‍💻 All of my projects are available at [https://kshivam1177.github.io/kshivam1177](https://kshivam1177.github.io/kshivam1177) 
