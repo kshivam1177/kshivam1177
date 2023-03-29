@@ -14,7 +14,7 @@
 
 <div align = center>
 
-[<kbd> <br> Visit Portfolio <br></kbd>][portfolio-link]
+[<kbd> <br> Visit Portfolio <br> <br/> </kbd>][portfolio-link]
 
 </div>
 
