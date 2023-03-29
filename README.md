@@ -14,14 +14,15 @@
 
 <div align = center>
 
-    [![Button Shield]][Shield]
+    [![Button Shield]]
 
 </div>
 
 
 
 
-- 👨‍💻 All of my projects are available at [https://kshivam1177.github.io/kshivam1177](https://kshivam1177.github.io/kshivam1177) - 📫 How to reach me **kshivam1177@gmail.com** ### Blogs posts
+- 👨‍💻 All of my projects are available at [https://kshivam1177.github.io/kshivam1177](https://kshivam1177.github.io/kshivam1177) 
+- 📫 How to reach me **kshivam1177@gmail.com** ### Blogs posts
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
