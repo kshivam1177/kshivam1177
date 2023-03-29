@@ -4,7 +4,7 @@ name: Deploy root directory to github pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["master"]
+    branches: [ "master" ]
     paths:
       - build_files
 

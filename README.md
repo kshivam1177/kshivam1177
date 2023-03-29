@@ -7,11 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/kshivam1177" target="blank"><img src="https://img.shields.io/twitter/follow/kshivam1177?logo=twitter&style=for-the-badge" alt="kshivam1177" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://kshivam1177.github.io/kshivam1177](https://kshivam1177.github.io/kshivam1177)
+
+
+<p align="left"> <a href="https://twitter.com/kshivam1177" target="blank"><img src="https://img.shields.io/twitter/follow/kshivam1177?logo=twitter&style=for-the-badge" alt="kshivam1177" /></a> </p>
+
+
+
+- 👨‍💻 All of my projects are available
+  at [https://kshivam1177.github.io/kshivam1177](https://kshivam1177.github.io/kshivam1177)
 
 - 📫 How to reach me **kshivam1177@gmail.com**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
