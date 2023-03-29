@@ -14,11 +14,7 @@
 
 <div align = center>
 
-
-
-```markdown
 [Button Shield]
-```
 
 
 </div>
