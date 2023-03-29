@@ -18,6 +18,8 @@
 
 </div>
 
+[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+
 
 
 
@@ -90,5 +92,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshivam1177&" alt="kshivam1177" />
 </p>
 
-
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
