@@ -14,14 +14,11 @@
 
 <div align = center>
 
-[Button Shield]
-
+[<kbd> <br> Visit Portfolio <br></kbd>][portfolio-link]
 
 </div>
 
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
-
+[portfolio-link]: # 'https://kshivam1177.github.io/kshivam1177'
 
 
 - 👨‍💻 All of my projects are available at [https://kshivam1177.github.io/kshivam1177](https://kshivam1177.github.io/kshivam1177) 
