@@ -1,0 +1,17 @@
+name: Clone latest build from [portfolio/staging]
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    name: Environment Setup
+    env:
+      my_secret: ${{secrets.commit_secret}}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - run: |
+          git config --global user.email kshivam1177@gmail.com
+          git config --global user.name kshivam1177
+          git clone -b dev https://github.com/kshivam1177/portfolio.git
