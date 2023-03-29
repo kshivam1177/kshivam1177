@@ -14,7 +14,10 @@
 
 <div align = center>
 
-[<kbd> <br> Visit Portfolio <br> <br/> </kbd>][portfolio-link]
+[<kbd> <br>
+<a href="https://kshivam1177.github.io/kshivam1177" target="blank"> View Portfolio</a>
+<br>
+</kbd>]
 
 </div>
 
