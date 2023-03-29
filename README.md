@@ -22,7 +22,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kshivam1177" alt="kshivam1177" />
   </a>
@@ -44,17 +44,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://kshivam1177.github.io/kshivam1177/" height="30" width="40" />
   </a>
 </p>
-
-<br>
-<br>
-
-- 👨‍💻 All of my projects are available at [https://kshivam1177.github.io/kshivam1177](https://kshivam1177.github.io/kshivam1177)
-- 📫 Reachable @ **kshivam1177@gmail.com**
-
-
-<br>
-<br>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
